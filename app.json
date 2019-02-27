@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/classic/classic"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "林间有风",
+    "backgroundColor": "#D80000",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": true
+  }
+}
